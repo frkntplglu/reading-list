@@ -6,6 +6,7 @@
 - [Concurrent Programming in Go](https://medium.com/compass-true-north/concurrent-programming-in-go-de33441ace1c)
 - [Understanding GO Routine and Channel](https://articles.wesionary.team/understanding-go-routine-and-channel-b09d7d60e575)
 - [Write Go like a senior engineer](https://levelup.gitconnected.com/write-go-like-a-senior-engineer-eee7f03a1883)
+- [Using GraphQL with Golang](https://www.apollographql.com/blog/graphql/golang/using-graphql-with-golang)
 
 ## React
 
