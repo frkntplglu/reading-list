@@ -12,4 +12,10 @@
 
 ## TypeScript
 
-## Common
+## Database
+- [What are ORMs and When to Use Them](https://dev.to/dak425/what-are-orms-and-why-should-you-use-them-2ng4)
+- [SQL Transactions](https://www.tutorialspoint.com/sql/sql-transactions.htm)
+- [Database Normalization](https://www.tutorialspoint.com/dbms/database_normalization.htm)
+- [SQL Server’da Transaction Kullanımı ve Yönetimi](https://medium.com/deeplab-tech/sql-serverda-transaction-kullan%C4%B1m%C4%B1-ve-y%C3%B6netimi-be7525ebb8d2)
+- [ACID Nedir?](https://medium.com/cloud-and-servers/acid-nedir-53f729f2bbb2)
+- [CAP Teoremi Nedir?](https://medium.com/cloud-and-servers/cap-teoremi-nedir-8673e71c10fc)
