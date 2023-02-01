@@ -7,6 +7,8 @@
 - [Understanding GO Routine and Channel](https://articles.wesionary.team/understanding-go-routine-and-channel-b09d7d60e575)
 - [Write Go like a senior engineer](https://levelup.gitconnected.com/write-go-like-a-senior-engineer-eee7f03a1883)
 - [Using GraphQL with Golang](https://www.apollographql.com/blog/graphql/golang/using-graphql-with-golang)
+- [A Complete Guide to JSON in Golang (With Examples)](https://www.sohamkamani.com/golang/json/)
+- [How To Use Contexts in Go](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go)
 
 ## React
 
