@@ -21,3 +21,5 @@
 - [SQL Server’da Transaction Kullanımı ve Yönetimi](https://medium.com/deeplab-tech/sql-serverda-transaction-kullan%C4%B1m%C4%B1-ve-y%C3%B6netimi-be7525ebb8d2)
 - [ACID Nedir?](https://medium.com/cloud-and-servers/acid-nedir-53f729f2bbb2)
 - [CAP Teoremi Nedir?](https://medium.com/cloud-and-servers/cap-teoremi-nedir-8673e71c10fc)
+
+## Computer Science
